@@ -1,0 +1,1 @@
+There's a website called Reno Calculators (https://www.renocalculators.com.au/). It gets the price of actual products daily and calculates how much materials you need and how much it will cost. It only works for paint and flooring, but it's a start.
